@@ -17,6 +17,23 @@ public class ClassOne {
 
 	}
 	
+	private void methodcreateGS() {
+		System.out.println("Method Created by SundariG");
+
+	}
+	
+	private void methodcreateGS2() {
+		System.out.println("Method Created By SundariG Two");
+
+	}
+	
+	private void methodcreateGS3() {
+		System.out.println("Method Created By SundariG three");
+	}
+	
+	
+	
+	
 	
 
 }
