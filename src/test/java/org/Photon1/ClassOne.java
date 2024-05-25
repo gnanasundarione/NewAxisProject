@@ -15,6 +15,7 @@ public class ClassOne {
 		System.out.println("Method three");
 	}
 	
+
 	private void methodGreens1() {
 		
 		System.out.println("Method Greens One");
@@ -27,10 +28,22 @@ public class ClassOne {
 	private void methodGreens3() {
 		
 		System.out.println("Method Greens three");
+
 	}
 	
 	
+	private void methodcreateGS() {
+		System.out.println("Method Created by SundariG");
+
+	}
 	
+	private void methodcreateGS2() {
+		System.out.println("Method Created By SundariG Two");
+
+	}
 	
+	private void methodcreateGS3() {
+		System.out.println("Method Created By SundariG three");
+	}
 
 }
